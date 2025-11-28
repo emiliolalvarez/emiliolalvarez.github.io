@@ -1,0 +1,24 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:web:emiliolalvarez.github.io",
+  "verificationMethod": [
+    {
+      "id": "did:web:emiliolalvarez.github.io#issuer-key-1",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "controller": "did:web:emiliolalvarez.github.io",
+      "publicKeyHex": "0x8f64f436d9c0806a7662df1541a47e5ff3e36923"
+    }
+  ],
+  "authentication": ["did:web:emiliolalvarez.github.io#issuer-key-1"],
+  "assertionMethod": ["did:web:emiliolalvarez.github.io#issuer-key-1"],
+  "service": [
+    {
+      "id": "#issuer-profile",
+      "type": "IssuerProfile",
+      "serviceEndpoint": "https://emiliolalvarez.github.io/issuer-blockcerts.json"
+    }
+  ]
+}
