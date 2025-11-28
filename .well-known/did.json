@@ -9,7 +9,7 @@
       "id": "did:web:emiliolalvarez.github.io#issuer-key-1",
       "type": "EcdsaSecp256k1VerificationKey2019",
       "controller": "did:web:emiliolalvarez.github.io",
-      "publicKeyHex": "0x8f64f436d9c0806a7662df1541a47e5ff3e36923"
+      "publicKeyHex": "02030f6cec78c850e00b8430f07f6eb2482799a09145bb62b76439f3a801efb7d9"
     }
   ],
   "authentication": ["did:web:emiliolalvarez.github.io#issuer-key-1"],
