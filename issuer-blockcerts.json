@@ -1,0 +1,11 @@
+{
+  "@context": [
+    "https://w3id.org/openbadges/v2",
+    "https://w3id.org/blockcerts/v3"
+  ],
+  "type": "Profile",
+  "id": "https://emiliolalvarez.github.io/issuer-blockcerts.json",
+  "name": "Universidad Nacional de Quilmes (pruebas)",
+  "url": "https://emiliolalvarez.github.io",
+  "email": "emiliolalvarez@gmail.com"
+}
