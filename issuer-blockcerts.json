@@ -8,7 +8,7 @@
   "name": "Universidad Nacional de Quilmes (pruebas)",
   "url": "https://emiliolalvarez.github.io",
   "email": "emiliolalvarez@gmail.com",
-  "publicKey": [
+  "___publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x8f64f436d9c0806a7662df1541a47e5ff3e36923",
       "created": "2025-11-28T00:00:00Z"
