@@ -9,7 +9,7 @@
       "id": "did:web:emiliolalvarez.github.io#key-1",
       "type": "JsonWebKey2020",
       "controller": "did:web:emiliolalvarez.github.io",
-      "___publicKeyJwk": {
+      "publicKeyJwk": {
         "kty": "EC",
         "crv": "K-256",
         "x": "Aw9s7HjIUOALhDDwf26ySCeZoJFFu2K3ZDnzqAHvt9k",
